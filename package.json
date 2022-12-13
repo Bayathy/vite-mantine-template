@@ -4,6 +4,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vite",
+    "lint":"eslint src/**/* --max-warnings 0",
     "lint:fix": "eslint src/**/* --fix, npm run format",
     "format": "prettier -w src/**/*"
   },
