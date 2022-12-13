@@ -1297,6 +1297,11 @@ eslint-config-bayathy@^1.0.21:
     eslint-plugin-unicorn "45.0.2"
     eslint-plugin-unused-imports "^2.0.0"
 
+eslint-config-mantine@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-mantine/-/eslint-config-mantine-2.0.0.tgz#feabc3b6383754a82b8e675df2150139149f4c2c"
+  integrity sha512-uDADuiJLKmhH6tjaEOfhA9o7GRuTnL3DBiox6muOV7hmnV8ESJotfzovUsiknwBSTMqzLTIvo52Cvs213DFiwg==
+
 eslint-config-prettier@8.5.0:
   version "8.5.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
