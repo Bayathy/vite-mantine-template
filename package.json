@@ -26,7 +26,7 @@
     "@typescript-eslint/parser": "^5.46.1",
     "@vitejs/plugin-react": "^3.0.0",
     "eslint": "^8.29.0",
-    "eslint-config-bayathy": "^1.0.21",
+    "eslint-config-bayathy": "^1.0.22",
     "eslint-config-mantine": "^2.0.0",
     "husky": "^8.0.2",
     "prettier": "^2.8.1",
