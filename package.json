@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
-    "@mantine/core": "^5.9.4",
-    "@mantine/hooks": "^5.9.4",
+    "@mantine/core": "^5.9.6",
+    "@mantine/hooks": "^5.9.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "vite": "^4.0.1"
