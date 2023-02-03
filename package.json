@@ -24,7 +24,7 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@typescript-eslint/parser": "^5.48.2",
-    "@vitejs/plugin-react": "^3.0.0",
+    "@vitejs/plugin-react": "^3.1.0",
     "eslint": "^8.32.0",
     "eslint-config-bayathy": "^1.0.22",
     "eslint-config-mantine": "^2.0.0",
