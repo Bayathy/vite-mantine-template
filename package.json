@@ -15,7 +15,7 @@
     "@mantine/hooks": "^5.9.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "vite": "^4.0.4"
+    "vite": "^4.5.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
